@@ -25,7 +25,7 @@ Les données sont organisées par classe :
 - Mild Demented
 - Moderate Demented
 Voici quelques images IRM représentatives de chaque classe dans le dataset : 
-![Exemples IRM](ImageDeLaDataset.png) 
+![Exemples IRM](\images\ImageDeLaDataset.png) 
 ## 🧠 Modèles utilisés
 - CNN simple (entraîné from scratch)
 - VGG16 avec fine-tuning
