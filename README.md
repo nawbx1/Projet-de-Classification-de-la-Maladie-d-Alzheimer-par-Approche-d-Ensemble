@@ -25,7 +25,7 @@ Les données sont organisées par classe :
 - Mild Demented
 - Moderate Demented
 Voici quelques images IRM représentatives de chaque classe dans le dataset : 
-![Exemples IRM](images\ImageDeLaDataset.png) 
+![Exemples IRM](Images\ImageDeLaDataset.png) 
 ## 🧠 Modèles utilisés
 - CNN simple (entraîné from scratch)
 - VGG16 avec fine-tuning
@@ -40,16 +40,16 @@ Voici quelques images IRM représentatives de chaque classe dans le dataset :
   ## 📈 Courbes d'entraînement et de validation
 
 ### 🔹 CNN
-![Courbes CNN](images\AccuraccyandlossfortrainingCNN.png)
+![Courbes CNN](Images\AccuraccyandlossfortrainingCNN.png)
 
 ### 🔹 VGG16
-![Courbes VGG16](images\AccuracyandlossforTrainingVGG16.png)
+![Courbes VGG16](Images\AccuracyandlossforTrainingVGG16.png)
 
 ### 🔹 Xception
-![Courbes Xception](images\AccuracyandlossforTrainingXception.png)
+![Courbes Xception](Images\AccuracyandlossforTrainingXception.png)
 
 ### 🔹 Voting Classifier (Hard Voting)
-![Courbes Voting](images\Accuraccyandlossfortraining.png)
+![Courbes Voting](Images\Accuraccyandlossfortraining.png)
 
 ## ⚙️ Installation
 
